@@ -16,7 +16,7 @@ class Student {
 }
 
 
-var num1 = "(507) 555-0120";
+var num1 = (507) 555-0120;
 student1Num = num1.toString();
 
 var num2 = "(507) 555-0075";
